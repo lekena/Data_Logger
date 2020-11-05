@@ -9,7 +9,7 @@ Development Lead
 
 Contributors
 ------------
-1. Tlotlisna Lekena
+1. Tlotlisang Lekena
 2. Dalitso Banda
 
 None yet. Why not be the first?
