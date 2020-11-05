@@ -1,37 +1,22 @@
-===========
-Data_Logger
-===========
+How to Use Data_Logger System
+--------------------------- 
+* The Breadboard and The Raspberry pi need to be used in a Greenhouse at $
+* The system needs internet to remotely monitor the matrics measured such$
+* Need a computer and the system to view the matrics locally and remotely
+* Connet the whole system using the report of EEE3097S provided as a manu$
+* for more information please email us at tlotlisanglk@gmail.com and we c$
 
-
-.. image:: https://img.shields.io/pypi/v/Data_logger.svg
-        :target: https://pypi.python.org/pypi/Data_logger
-
-.. image:: https://img.shields.io/travis/lekena/Data_logger.svg
-        :target: https://travis-ci.com/lekena/Data_logger
-
-.. image:: https://readthedocs.org/projects/Data-logger/badge/?version=latest
-        :target: https://Data-logger.readthedocs.io/en/latest/?badge=latest
-        :alt: Documentation Status
-
-
-
-
-Python Boilerplate contains all the boilerplate you need to create a Python package.
-
-
-* Free software: MIT license
-* Documentation: https://Data-logger.readthedocs.io.
-
-
-Features
---------
-
-* TODO
 
 Credits
 -------
 
-This package was created with Cookiecutter_ and the `audreyr/cookiecutter-pypackage`_ project template.
+This package was created with Cookiecutter_ and the `audreyr/cookiecutter$
 
 .. _Cookiecutter: https://github.com/audreyr/cookiecutter
-.. _`audreyr/cookiecutter-pypackage`: https://github.com/audreyr/cookiecutter-pypackage
+.. _`audreyr/cookiecutter-pypackage`: https://github.com/audreyr/cookiecu$
+
+
+
+
+
+
