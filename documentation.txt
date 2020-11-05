@@ -1,4 +1,14 @@
 This document describes how the API works
 
+The technical specification for the API
+---------------------------------------
+
+
+
+
+
+
+Instructions on how to use and contribute to an API
+---------------------------------------------------
 
 
